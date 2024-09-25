@@ -57,7 +57,7 @@
             teksti += "<p>" + "<b>" + luku + ". " + "</b>" + data.oppilaat[i].nimi + "</p>";
             luku++
         }
-        teksti += "<br>" + "<h2>" + "Alkamis/loppumispäivä " + "</h2>" + "<p>" + data.toteutus.alku + " / " + data.toteutus.loppu
+        teksti += "<br>" + "<h2>" + "Alkamis/loppumispäivä " + "</h2>" + "<p>" + data.toteutus.alku + " / " + data.toteutus.loppu + "<br>"
         teksti += " (" + data.toteutus.kesto + ")" + "</center>"
         
         document.getElementById("vastaus").innerHTML = teksti
