@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
+    <title>Sää</title>
+</head>
+<body>
+    <div class="container text-center">
+        <nav class="navbar navbar-expand-md navbar-dark bg-black fixed-top border rounded-pill my-1">
+        <div class="container">
+        <div class="navbar-header">
+        <b><a class="navbar-brand" href="#"><img src="earth.png" alt="Logo" height="20" class="d-inline-block align-text-top">iWorld</a></b>
+        </div>
+        <ul class="nav navbar-nav">
+            <li><a style="text-decoration: none;"  href="kurssi.html"><h4>Kurssi</h4></a></li>
+            <li><a style="text-decoration: none;" href="toteutus.html"><h4>Toteutus</h4></a></li>
+            <li><a style="text-decoration: none;" href="tapahtumat.html"><h4>Tapahtumat</h4></a></li>
+            <li class="active"><a style="text-decoration: none;"  href="saa.html"><h4>Sää</h4></a></li>
+            <li><a style="text-decoration: none;"  href='liikennekamera.html'><h4>Liikennekamera</h4></a></li>
+            <li><a style="text-decoration: none;"  href="junat.html"><h4>Junat</h4></a></li>
+        </ul>
+        </div>  
+        </nav>
+        <div class="container-fluid">
+    <style>
+        body{background-color:slategray}
+        h1 {color:aliceblue; font-family:cursive; font-size:xxx-large; margin-top: 100px;}
+        h3 {color: rgb(3, 3, 3); font-family:monospace; font-weight:lighter; text-align:center; background-color:rgb(254, 255, 255); border-style:double; border-color:silver;border-radius:5cap; margin-top: 80px;}
+        h4 {color:aliceblue; font-family: monospace; font-weight:lighter; text-align: center; font-size: large;text-indent: 40px;}
+        li {color:aliceblue; font-family: monospace; font-weight:lighter; text-align: center; font-size: large; }
+        h2 {color:aliceblue; font-family: monospace; font-weight:lighter; text-align: center; font-size: large; font-style: italic; margin-top: 20px;}
+    </style>
+    <div id="vastaus"></div>
+    <script>
+        fetch('https://api.openweathermap.org/data/2.5/weather?lat=60.16&lon=24.94&lang=FI&units=metric&appid=665ecd56dfc08dbb50feb8b8f5034e28')
+    // Muunnetaan vastaus JSON muotoon
+    .then(function (response) {
+        return response.json();
+        })
+    // Käsitellään muunnettu JSON vastaus
+    .then(function (responseJson) {
+    // Testataan onnistuuko JSON-luku
+        kerro (responseJson);
+        })
+    .catch(function (error)  {
+        document.getElementById("vastaus").innerHTML = "Tietoa ei pysty hakemaa";
+        })
+    function kerro(data){
+        teksti = ""
+        var kuva = 'http://openweathermap.org/img/w/' + data.weather[0].icon + '.png';
+        teksti =   "<h1>" + "Säätiedot" + "</h1>"
+        teksti +=  "<h3>" + "Sää - siitä on aina jotain kerrottavaa" + "</h3>" + "<br>"
+        teksti +=  "<h2>" + "Millainen sää Helsingissä, Tampereella ja Addis Abebassa?" + "</h2>"
+        teksti +=  "<br>" + "<br>" + "<br>" + "<center>" +  "<img src='https://featuringfinland.com/wp-content/uploads/2021/05/Finland_Helsinki_Church_1-1068x712.jpg' alt='Kuva Helsingin kaupungista' height=200px >" + "</br>" + "</br>" 
+        teksti +=  "<li>" + "Kaupunki: " + data.name.toUpperCase() + "</li>"
+        teksti +=  "<li>" + "Sää: " + data.weather[0].description + "</li>" + "<center>" 
+        teksti +=  "<li>" + "Lämpötila: " + data.main.temp + "&deg;C" + "</li>"
+        teksti +=  "<li>" + "Tuulen nopeus: " + data.wind.speed + " m/s" + "</li>"
+        teksti += "<center>" +  "<img src='" + kuva + "'' alt='kuva' height=50px >" 
+        document.getElementById("vastaus").innerHTML = teksti
+    
+        fetch('https://api.openweathermap.org/data/2.5/weather?lat=61.49&lon=23.78&lang=FI&units=metric&appid=665ecd56dfc08dbb50feb8b8f5034e28')
+    // Muunnetaan vastaus JSON muotoon
+    .then(function (response) {
+        return response.json();
+        })
+    // Käsitellään muunnettu JSON vastaus
+    .then(function (responseJson) {
+    // Testataan onnistuuko JSON-luku
+        kerro (responseJson);
+        })
+    .catch(function (error)  {
+        document.getElementById("vastaus").innerHTML = "Tietoa ei pysty hakemaa";
+        })  
+
+    function kerro(data2){
+        teksti2 = ""
+        var kuva = 'http://openweathermap.org/img/w/' + data2.weather[0].icon + '.png';
+        teksti2  =  "<br>" + "<center>" +  "<img src='https://www.visitfinland.com/dam/jcr:06100202-33e5-4ed7-893b-2a14fbe3ce01/Tampere_Tammerkoski_drone_view_summer_2021_Laura_Vanzo%20Visit%20Tampere_optimized.jpg' alt='Kuva Tampereen kaupungista' height=200px >" + "</br>"
+        teksti2 +=  "<br>" +  "<li>" + "Kaupunki: " + data2.name.toUpperCase() + "</li>"
+        teksti2 +=  "<li>" + "Sää: " + data2.weather[0].description + "</li>"
+        teksti2 +=  "<li>" + "Lämpötila: " + data2.main.temp + "&deg;C" + "</li>"
+        teksti2 +=  "<li>" + "Tuulen nopeus: " + data2.wind.speed + " m/s" + "</li>" + "<br>"
+        teksti2 += "<center>" +  "<img src='" + kuva + "'' alt='kuva' height=50px >" 
+
+        document.getElementById("vastaus").innerHTML += teksti2
+    
+    fetch('https://api.openweathermap.org/data/2.5/weather?lat=9.01&lon=38.76&lang=FI&units=metric&appid=665ecd56dfc08dbb50feb8b8f5034e28')
+    // Muunnetaan vastaus JSON muotoon
+    .then(function (response) {
+        return response.json();
+        })
+    // Käsitellään muunnettu JSON vastaus
+    .then(function (responseJson) {
+    // Testataan onnistuuko JSON-luku
+        kerro (responseJson);
+        })
+    .catch(function (error)  {
+        document.getElementById("vastaus").innerHTML = "Tietoa ei pysty hakemaa";
+        })  
+
+    function kerro(data3){
+        teksti3 = ""
+        var kuva = 'http://openweathermap.org/img/w/' + data3.weather[0].icon + '.png';
+        teksti3 =   "<br>" + "<center>" +  "<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Addis_in_night.jpg/2560px-Addis_in_night.jpg' alt='Kuva Addis Abeba kaupungista yöllä' height=200px >" + "</br>" + "</br>" 
+        teksti3 +=  "<li>" + "Kaupunki: " + data3.name.toUpperCase() + "</li>" 
+        teksti3 +=  "<li>" + "Sää: " + data3.weather[0].description + "</li>"
+        teksti3 +=  "<li>" + "Lämpötila: " + data3.main.temp + "&deg;C" + "</li>"
+        teksti3 +=  "<li>" + "Tuulen nopeus: " + data3.wind.speed + " m/s" + "</li>" + "<br>"
+        teksti3 += "<center>" +  "<img src='" + kuva + "'' alt='kuva' height=50px >" 
+
+        document.getElementById("vastaus").innerHTML += teksti3
+    }
+}
+    }
+
+    </script>
+</body>
+</html>
