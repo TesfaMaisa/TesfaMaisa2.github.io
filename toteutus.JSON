@@ -1,0 +1,29 @@
+{
+    "opintojakso":{
+       "nimi":"Digitekniikat",
+       "osallistujia":5
+    },
+    "oppilaat":[
+       {
+          "nimi":"Juuso Matias"
+       },
+       {
+          "nimi":"Maria Mannermo"
+       },
+       {
+          "nimi":"Lauri Leskinen"
+       },
+       {
+          "nimi":"Kiia Kukka"
+       },
+       {
+          "nimi":"Kari Kallio"
+       }
+    ],
+    "toteutus":{
+       "alku":"19.08.2024",
+       "loppu":"11.10.2024",
+       "kesto":"3 viikkoa"
+    },
+    "kuva":"https://www.rapidops.com/mm-images/github-copilot-a-revolutionary-ai-tool-for-developers-scaled-q67mi4le.jpg"
+ }
