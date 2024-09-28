@@ -12,7 +12,7 @@
     <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-black border rounded-pill my-1">
     <div class="container">
     <div class="navbar-header">
-    <b><a class="navbar-brand" href="index.html"><img src="earth.png" alt="Logo" height="20" class="d-inline-block align-text-top">JSON</a></b>
+    <b><a class="navbar-brand" href="index.html"><img src="json.svg.png" alt="Logo" height="20" class="d-inline-block align-text-top">JSON</a></b>
     </div>
     <ul class="nav navbar-nav">
         <li><a style="text-decoration: none;"  href="index.html"><h4>Kurssi</h4></a></li>
@@ -35,7 +35,7 @@
     </style>
     <div id="vastaus"></div>
     <script>
-         fetch('https://run.mocky.io/v3/1709efb4-e89c-4ddf-b4bc-6f5a6e9037fa')
+         fetch('https://api.visittampere.com/api/v1/visittampere/event/published/all/?format=json&lang=fi')
     // Muunnetaan vastaus JSON muotoon
     .then(function (response) {
         return response.json();

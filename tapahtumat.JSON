@@ -1,0 +1,4647 @@
+{
+    "count": 7,
+    "next": null,
+    "previous": null,
+    "results": [
+      {
+        "id": "6a673854-d012-4d5b-9da3-4ed2e2dcca40",
+        "name": null,
+        "main_event_identifier": null,
+        "event_identifiers": [
+          {
+            "category_id": "system:topic:exhibitions",
+            "description": "Näyttelyt",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          },
+          {
+            "category_id": "system:topic:museum",
+            "description": "Museot",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          }
+        ],
+        "pirkanmaaevents_event": {
+          "id": "system:T70OGZMLyu",
+          "name": [
+            {
+              "id": "system:T70OGZMLyu_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:T70OGZMLyu_fi",
+              "language": "fi",
+              "text": "Höyrykonemuseo"
+            },
+            {
+              "id": "system:T70OGZMLyu_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "description": [
+            {
+              "id": "system:T70OGZMLyu_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:T70OGZMLyu_fi",
+              "language": "fi",
+              "text": "Jättiläismäistä höyrykonetta käytettiin 1900-luvun alussa Finlaysonin puuvillatehtaan voimanlähteenä. Kone on edelleen alkuperäisellä paikallaan. Sen koko on valtava: ison vauhtipyörän halkaisija on yli 8 metriä ja koneen teho on ollut 1650 hevosvoimaa. Höyrykone on valmistettu sveitsiläisellä Sulzerin tehtaalla vuonna 1899."
+            },
+            {
+              "id": "system:T70OGZMLyu_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "short_description": [
+            {
+              "id": "system:T70OGZMLyu_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:T70OGZMLyu_fi",
+              "language": "fi",
+              "text": "Suomen suurin tehdashöyrykone alkuperäisellä paikallaan."
+            },
+            {
+              "id": "system:T70OGZMLyu_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "provider_name": "Työväenmuseo Werstas",
+          "provider_email": "info@tyovaenmuseo.fi",
+          "provider_phone": "0104209220",
+          "provider_link": "https://www.tyovaenmuseo.fi/",
+          "publication_status": "public",
+          "start_time": "2002-05-10T00:00:00+03:00",
+          "end_time": "2031-01-01T00:00:00+02:00",
+          "area": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "location": {
+            "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K",
+            "name": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": "Työväenmuseo Werstas"
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "33210",
+            "post_office_box_num": null,
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "city:tampere",
+            "address_locality": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_23.7595239_61.5015878",
+              "type": "Point",
+              "coordinate_0": "23.7595239",
+              "coordinate_1": "61.5015878"
+            },
+            "street_address": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": "Väinö Linnan aukio 8"
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "n_events": 0,
+            "parent": "system:17",
+            "deleted": false
+          },
+          "keyword": [
+            {
+              "id": "system:topic:museum",
+              "name": [
+                {
+                  "id": "system:topic:museum_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topic:museum_fi",
+                  "language": "fi",
+                  "text": "Museot"
+                },
+                {
+                  "id": "system:topic:museum_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            },
+            {
+              "id": "system:topic:exhibitions",
+              "name": [
+                {
+                  "id": "system:topic:exhibitions_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topic:exhibitions_fi",
+                  "language": "fi",
+                  "text": "Näyttelyt"
+                },
+                {
+                  "id": "system:topic:exhibitions_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            }
+          ],
+          "offer": [
+            {
+              "id": "system:T70OGZMLyu_offer_0",
+              "description": [
+                {
+                  "id": "system:T70OGZMLyu_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:T70OGZMLyu_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:T70OGZMLyu_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "system:T70OGZMLyu_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:T70OGZMLyu_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:T70OGZMLyu_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "price": [
+                {
+                  "id": "system:T70OGZMLyu_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:T70OGZMLyu_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:T70OGZMLyu_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": true
+            }
+          ],
+          "audience": [],
+          "image": [
+            {
+              "id": "6980",
+              "name": "image",
+              "license": "event_only",
+              "url": "https://pirkanmaaevents.fi/images/WvCsryW_Werstas_Hoyrykonemuseo_Mikko_Vares.jpg",
+              "cropping": "",
+              "photographer_name": "Mikko Vares",
+              "data_source": "system",
+              "publisher": "system:others"
+            }
+          ],
+          "super_event": null,
+          "has_umbrella_super_event": false,
+          "event_status": "EventScheduled",
+          "data_source": "system",
+          "publisher": "system:others",
+          "super_event_type": null,
+          "is_virtualevent": false,
+          "external_links": [
+            {
+              "id": "system:T70OGZMLyu_fi_https://www.tyovaenmuseo.fi/nayttelyt/hoyrykonemuseo/",
+              "language": "fi",
+              "name": "https://www.tyovaenmuseo.fi/nayttelyt/hoyrykonemuseo/",
+              "link": "https://www.tyovaenmuseo.fi/nayttelyt/hoyrykonemuseo/"
+            }
+          ],
+          "info_url": [
+            {
+              "id": "system:T70OGZMLyu_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:T70OGZMLyu_fi",
+              "language": "fi",
+              "text": ""
+            },
+            {
+              "id": "system:T70OGZMLyu_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "location_extra_info": [
+            {
+              "id": "system:T70OGZMLyu_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:T70OGZMLyu_fi",
+              "language": "fi",
+              "text": ""
+            },
+            {
+              "id": "system:T70OGZMLyu_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "date_published": null,
+          "virtual_events_url": [],
+          "in_language": [
+            {
+              "id": "system:T70OGZMLyu_in_language_26272",
+              "language_id": 26272
+            }
+          ],
+          "sub_events": [],
+          "custom_data": []
+        },
+        "additional_info": {
+          "id": "50e42749-d6a4-406b-a92b-76236c072289"
+        }
+      },
+      {
+        "id": "171d701c-e1c7-4f92-982b-ae69c46d9631",
+        "name": null,
+        "main_event_identifier": null,
+        "event_identifiers": [
+          {
+            "category_id": "system:topic:exhibitions",
+            "description": "Näyttelyt",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          }
+        ],
+        "pirkanmaaevents_event": {
+          "id": "system:gMpUs0Cwn",
+          "name": [
+            {
+              "id": "system:gMpUs0Cwn_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:gMpUs0Cwn_fi",
+              "language": "fi",
+              "text": "Finlayson 200 - tehtaasta brändiksi"
+            },
+            {
+              "id": "system:gMpUs0Cwn_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "description": [
+            {
+              "id": "system:gMpUs0Cwn_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:gMpUs0Cwn_fi",
+              "language": "fi",
+              "text": "Näyttely seuraa Tammerkosken rannalle syntyneen tehtaan kehittymistä Pohjoismaiden suurimmaksi teollisuusyritykseksi ja lopulta sen sopeutumista uuteen, savupiipputeollisuuden jälkeiseen aikaan. \n\nEsillä on runsaasti esineistöä ja etenkin tekstiilejä Tampereen museoiden valtavasta Finlayson-kokoelmasta. Näyttelyssä on myös James Finlaysonin 1820 saama privilegiokirja, Tampereen ensimmäinen sähköjuna eli Pikku-Pässi, sekä Kuusvooninkisen pienoismalli, jonka ikkunoista voi nähdä ihmisiä työn touhussa 1840-luvulla. Ja tietenkin näyttelyssä nähdään runsaasti tekstiilejä, joista monet ovat suomalaisille hyvinkin tuttuja."
+            },
+            {
+              "id": "system:gMpUs0Cwn_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "short_description": [
+            {
+              "id": "system:gMpUs0Cwn_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:gMpUs0Cwn_fi",
+              "language": "fi",
+              "text": "Näyttely seuraa Tammerkosken rannalle syntyneen tehtaan kehittymistä Pohjoismaiden suurimmaksi teollisuusyritykseksi ja lopulta sen sopeutumista uuteen, savupiipputeollisuuden jälkeiseen aikaan."
+            },
+            {
+              "id": "system:gMpUs0Cwn_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "provider_name": "Tapahtumajärjestäjän tiedot puuttuvat",
+          "provider_email": "",
+          "provider_phone": "",
+          "provider_link": "",
+          "publication_status": "public",
+          "start_time": "2020-12-29T00:00:00+02:00",
+          "end_time": "2025-06-23T00:00:00+03:00",
+          "area": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "location": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "keyword": [
+            {
+              "id": "system:topic:exhibitions",
+              "name": [
+                {
+                  "id": "system:topic:exhibitions_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topic:exhibitions_fi",
+                  "language": "fi",
+                  "text": "Näyttelyt"
+                },
+                {
+                  "id": "system:topic:exhibitions_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            }
+          ],
+          "offer": [
+            {
+              "id": "system:gMpUs0Cwn_offer_0",
+              "description": [
+                {
+                  "id": "system:gMpUs0Cwn_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "system:gMpUs0Cwn_offer_0_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_0_fi",
+                  "language": "fi",
+                  "text": ""
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_0_sv",
+                  "language": "sv",
+                  "text": ""
+                }
+              ],
+              "price": [
+                {
+                  "id": "system:gMpUs0Cwn_offer_0_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_0_fi",
+                  "language": "fi",
+                  "text": "Katso lisätietoa tapahtuman kuvauksesta"
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": false
+            },
+            {
+              "id": "system:gMpUs0Cwn_offer_1",
+              "description": [
+                {
+                  "id": "system:gMpUs0Cwn_offer_1_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_1_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_1_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "system:gMpUs0Cwn_offer_1_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_1_fi",
+                  "language": "fi",
+                  "text": ""
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_1_sv",
+                  "language": "sv",
+                  "text": ""
+                }
+              ],
+              "price": [
+                {
+                  "id": "system:gMpUs0Cwn_offer_1_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_1_fi",
+                  "language": "fi",
+                  "text": "Katso lisätietoa tapahtuman kuvauksesta"
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_1_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": false
+            },
+            {
+              "id": "system:gMpUs0Cwn_offer_2",
+              "description": [
+                {
+                  "id": "system:gMpUs0Cwn_offer_2_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_2_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_2_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "system:gMpUs0Cwn_offer_2_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_2_fi",
+                  "language": "fi",
+                  "text": ""
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_2_sv",
+                  "language": "sv",
+                  "text": ""
+                }
+              ],
+              "price": [
+                {
+                  "id": "system:gMpUs0Cwn_offer_2_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_2_fi",
+                  "language": "fi",
+                  "text": "Katso lisätietoa tapahtuman kuvauksesta"
+                },
+                {
+                  "id": "system:gMpUs0Cwn_offer_2_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": false
+            }
+          ],
+          "audience": [],
+          "image": [],
+          "super_event": null,
+          "has_umbrella_super_event": false,
+          "event_status": "EventScheduled",
+          "data_source": "system",
+          "publisher": "system:others",
+          "super_event_type": null,
+          "is_virtualevent": false,
+          "external_links": [],
+          "info_url": [
+            {
+              "id": "system:gMpUs0Cwn_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:gMpUs0Cwn_fi",
+              "language": "fi",
+              "text": ""
+            },
+            {
+              "id": "system:gMpUs0Cwn_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "location_extra_info": [
+            {
+              "id": "system:gMpUs0Cwn_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:gMpUs0Cwn_fi",
+              "language": "fi",
+              "text": "Museokeskus Vapriikki"
+            },
+            {
+              "id": "system:gMpUs0Cwn_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "date_published": null,
+          "virtual_events_url": [],
+          "in_language": [],
+          "sub_events": [],
+          "custom_data": []
+        },
+        "additional_info": {
+          "id": "ebcd9024-78bc-45d4-8e58-9b81c7ccd5b8"
+        }
+      },
+      {
+        "id": "fa971d59-8639-4313-ba44-a1148d6d09db",
+        "name": null,
+        "main_event_identifier": null,
+        "event_identifiers": [
+          {
+            "category_id": "system:topic:exhibitions",
+            "description": "Näyttelyt",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          }
+        ],
+        "pirkanmaaevents_event": {
+          "id": "menoinfo:r55iLZ4mj",
+          "name": [
+            {
+              "id": "menoinfo:r55iLZ4mj_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_fi",
+              "language": "fi",
+              "text": "Nottbeckit – Tampereen kosmopoliitit"
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "description": [
+            {
+              "id": "menoinfo:r55iLZ4mj_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_fi",
+              "language": "fi",
+              "text": "Näyttely seuraa Wilhelm von Nottbeckin ja hänen perheensä loisteliasta ja kansainvälistä elämää Tampereella aina siihen saakka kunnes suvun viimeisetkin jäsenet jättävät Tampereen 1900-luvun alussa."
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "short_description": [
+            {
+              "id": "menoinfo:r55iLZ4mj_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_fi",
+              "language": "fi",
+              "text": "Näyttely seuraa Wilhelm von Nottbeckin ja hänen perheensä loisteliasta ja kansainvälistä elämää Tampereella aina siihen saakka kunnes suvun viimeisetkin jäsenet jättävät Tampereen 1900-luvun alussa. Aukioloajat: 2.3. 11:00-18:00, 3.3. 11:00-18:00, 4.3. 11:00-18:00, 26.2. 11:00-18:00, 27.2. 11:00-18:00, 28.2. 11:00-18:00."
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "provider_name": "Tapahtumajärjestäjän tiedot puuttuvat",
+          "provider_email": "",
+          "provider_phone": "",
+          "provider_link": "",
+          "publication_status": "public",
+          "start_time": "2021-02-26T00:00:00+02:00",
+          "end_time": "2030-12-31T00:00:00+02:00",
+          "area": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "location": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "keyword": [
+            {
+              "id": "system:topic:exhibitions",
+              "name": [
+                {
+                  "id": "system:topic:exhibitions_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topic:exhibitions_fi",
+                  "language": "fi",
+                  "text": "Näyttelyt"
+                },
+                {
+                  "id": "system:topic:exhibitions_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            }
+          ],
+          "offer": [
+            {
+              "id": "menoinfo:r55iLZ4mj_offer_0",
+              "description": [
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_0_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_0_fi",
+                  "language": "fi",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_0_sv",
+                  "language": "sv",
+                  "text": ""
+                }
+              ],
+              "price": [
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_0_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_0_fi",
+                  "language": "fi",
+                  "text": "Katso lisätietoa tapahtuman kuvauksesta"
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": false
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_offer_1",
+              "description": [
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_1_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_1_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_1_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_1_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_1_fi",
+                  "language": "fi",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_1_sv",
+                  "language": "sv",
+                  "text": ""
+                }
+              ],
+              "price": [
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_1_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_1_fi",
+                  "language": "fi",
+                  "text": "Katso lisätietoa tapahtuman kuvauksesta"
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_1_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": false
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_offer_2",
+              "description": [
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_2_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_2_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_2_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_2_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_2_fi",
+                  "language": "fi",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_2_sv",
+                  "language": "sv",
+                  "text": ""
+                }
+              ],
+              "price": [
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_2_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_2_fi",
+                  "language": "fi",
+                  "text": "Katso lisätietoa tapahtuman kuvauksesta"
+                },
+                {
+                  "id": "menoinfo:r55iLZ4mj_offer_2_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": false
+            }
+          ],
+          "audience": [],
+          "image": [],
+          "super_event": null,
+          "has_umbrella_super_event": false,
+          "event_status": "EventScheduled",
+          "data_source": "menoinfo",
+          "publisher": "menoinfo:integration",
+          "super_event_type": null,
+          "is_virtualevent": false,
+          "external_links": [],
+          "info_url": [
+            {
+              "id": "menoinfo:r55iLZ4mj_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_fi",
+              "language": "fi",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "location_extra_info": [
+            {
+              "id": "menoinfo:r55iLZ4mj_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_fi",
+              "language": "fi",
+              "text": "Museo Milavida"
+            },
+            {
+              "id": "menoinfo:r55iLZ4mj_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "date_published": null,
+          "virtual_events_url": [],
+          "in_language": [
+            {
+              "id": "menoinfo:r55iLZ4mj_in_language_181",
+              "language_id": 181
+            }
+          ],
+          "sub_events": [],
+          "custom_data": []
+        },
+        "additional_info": {
+          "id": "e1816da2-3092-4848-b629-47572a03756b"
+        }
+      },
+      {
+        "id": "61d3021e-fa6e-4406-9d4f-7bc2f509e4c3",
+        "name": null,
+        "main_event_identifier": null,
+        "event_identifiers": [
+          {
+            "category_id": "system:topic:exhibitions",
+            "description": "Näyttelyt",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          },
+          {
+            "category_id": "system:topic:museum",
+            "description": "Museot",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          },
+          {
+            "category_id": "system:topics:cultureandart",
+            "description": "Kulttuuri ja taide",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          }
+        ],
+        "pirkanmaaevents_event": {
+          "id": "system:TeQFPf33p",
+          "name": [
+            {
+              "id": "system:TeQFPf33p_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:TeQFPf33p_fi",
+              "language": "fi",
+              "text": "Teollisuusmuseo"
+            },
+            {
+              "id": "system:TeQFPf33p_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "description": [
+            {
+              "id": "system:TeQFPf33p_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:TeQFPf33p_fi",
+              "language": "fi",
+              "text": "Teollisuusmuseo on koko perheen kohde, jossa voi eläytyä tehdaskaupungin arkeen monin tavoin. \n\nKatsele stereoskoopilla stereokuvia 1860-luvun Tampereesta, tee itsellesi kaupungin ensimmäinen sinetti läpipiirtämällä, kokeile pellavalumpun, lampaanvillan ja historiallisten mallien mukaan kudottujen kankaiden tuntua. Kokeile pelaamalla, kuinka olisit ansainnut elantosi tehtaassa yli sata vuotta sitten, kokoa palapeliä, poseeraa tehtaalaisten keskellä ja rakenna palikoista oma tehdaskaupunkisi!"
+            },
+            {
+              "id": "system:TeQFPf33p_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "short_description": [
+            {
+              "id": "system:TeQFPf33p_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:TeQFPf33p_fi",
+              "language": "fi",
+              "text": "Tamperelaisen teollisuuden koko 200-vuotinen tarina. Näyttelyssä on paljon tutkittavaa kaiken ikäisille."
+            },
+            {
+              "id": "system:TeQFPf33p_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "provider_name": "Työväenmuseo Werstas",
+          "provider_email": "info@tyovaenmuseo.fi",
+          "provider_phone": "0104209220",
+          "provider_link": "https://www.tyovaenmuseo.fi/",
+          "publication_status": "public",
+          "start_time": "2021-06-11T00:00:00+03:00",
+          "end_time": "2027-01-01T00:00:00+02:00",
+          "area": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "location": {
+            "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K",
+            "name": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": "Työväenmuseo Werstas"
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "33210",
+            "post_office_box_num": null,
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "city:tampere",
+            "address_locality": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_23.7595239_61.5015878",
+              "type": "Point",
+              "coordinate_0": "23.7595239",
+              "coordinate_1": "61.5015878"
+            },
+            "street_address": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": "Väinö Linnan aukio 8"
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "n_events": 0,
+            "parent": "system:17",
+            "deleted": false
+          },
+          "keyword": [
+            {
+              "id": "system:topics:cultureandart",
+              "name": [
+                {
+                  "id": "system:topics:cultureandart_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topics:cultureandart_fi",
+                  "language": "fi",
+                  "text": "Kulttuuri ja taide"
+                },
+                {
+                  "id": "system:topics:cultureandart_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            },
+            {
+              "id": "system:topic:museum",
+              "name": [
+                {
+                  "id": "system:topic:museum_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topic:museum_fi",
+                  "language": "fi",
+                  "text": "Museot"
+                },
+                {
+                  "id": "system:topic:museum_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            },
+            {
+              "id": "system:topic:exhibitions",
+              "name": [
+                {
+                  "id": "system:topic:exhibitions_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topic:exhibitions_fi",
+                  "language": "fi",
+                  "text": "Näyttelyt"
+                },
+                {
+                  "id": "system:topic:exhibitions_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            }
+          ],
+          "offer": [
+            {
+              "id": "system:TeQFPf33p_offer_0",
+              "description": [
+                {
+                  "id": "system:TeQFPf33p_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:TeQFPf33p_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:TeQFPf33p_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "system:TeQFPf33p_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:TeQFPf33p_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:TeQFPf33p_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "price": [
+                {
+                  "id": "system:TeQFPf33p_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:TeQFPf33p_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:TeQFPf33p_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": true
+            }
+          ],
+          "audience": [],
+          "image": [
+            {
+              "id": "2038",
+              "name": "image",
+              "license": "event_only",
+              "url": "https://pirkanmaaevents.fi/images/TD0fwVl-Teollisuusmuseo_tunnus_kuva_Suvi_Roiko_web.jpg",
+              "cropping": "",
+              "photographer_name": "Suvi Roiko",
+              "data_source": "system",
+              "publisher": "system:others"
+            }
+          ],
+          "super_event": null,
+          "has_umbrella_super_event": null,
+          "event_status": "EventScheduled",
+          "data_source": "system",
+          "publisher": "system:others",
+          "super_event_type": null,
+          "is_virtualevent": null,
+          "external_links": [],
+          "info_url": [
+            {
+              "id": "system:TeQFPf33p_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:TeQFPf33p_fi",
+              "language": "fi",
+              "text": ""
+            },
+            {
+              "id": "system:TeQFPf33p_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "location_extra_info": [
+            {
+              "id": "system:TeQFPf33p_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:TeQFPf33p_fi",
+              "language": "fi",
+              "text": "Väinö Linnan aukio 8, 33210 Tampere"
+            },
+            {
+              "id": "system:TeQFPf33p_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "date_published": null,
+          "virtual_events_url": [],
+          "in_language": [
+            {
+              "id": "system:TeQFPf33p_in_language_26271",
+              "language_id": 26271
+            }
+          ],
+          "sub_events": [],
+          "custom_data": []
+        },
+        "additional_info": {
+          "id": "3e4e56c1-8880-4cec-afee-6cf479c4278a"
+        }
+      },
+      {
+        "id": "4b9d8e75-5b57-48c7-a9ea-dad77be819a0",
+        "name": null,
+        "main_event_identifier": null,
+        "event_identifiers": [
+          {
+            "category_id": "system:topic:sports",
+            "description": "Liikunta ja urheilu",
+            "mapped_category": {
+              "category_id": "sports",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Urheilu",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Sports",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Sport",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Sport",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "体育运动",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Спорт",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "スポーツ",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Sports",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Deportes",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "스포츠",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Sport",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          }
+        ],
+        "pirkanmaaevents_event": {
+          "id": "menoinfo:AA3AWSVrq",
+          "name": [
+            {
+              "id": "menoinfo:AA3AWSVrq_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_fi",
+              "language": "fi",
+              "text": "Tampere parkrun"
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "description": [
+            {
+              "id": "menoinfo:AA3AWSVrq_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_fi",
+              "language": "fi",
+              "text": "Maksuton, viikoittainen, ajanotollinen 5 kilometrin juoksu/hölkkä/kävely klo 9.30 joka lauantai, alkaen 14.10.2017. Tapahtuma on avoin kaikille ja se järjestetään vapaaehtoisvoimin. Ota mukaasi vaikka koira tai kulje lastenvaunujen kera. Tarkoitus on pitää hauskaa, tervetuloa mukaan!\nMuista rekisteröityä ja tulostaa viivakoodi mukaasi.\nJos et tällä kertaa voi juosta tai kävellä, niin tule vapaaehtoiseksi järjestämään tapahtumaa. Ota yhteyttä messengerillä. Reitin löydät täältä http://www.parkrun.fi/tampere/course"
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "short_description": [
+            {
+              "id": "menoinfo:AA3AWSVrq_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_fi",
+              "language": "fi",
+              "text": "Maksuton, viikoittainen, ajanotollinen 5 km juoksu/hölkkä/kävely. Tapahtuma on avoin kaikille ja se järjestetään vapaaehtoisvoimin. www.parkrun.fi/tampere/course. Aukioloajat: 16.10. 9:30-0:00."
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "provider_name": "Tapahtumajärjestäjän tiedot puuttuvat",
+          "provider_email": "",
+          "provider_phone": "",
+          "provider_link": "",
+          "publication_status": "public",
+          "start_time": "2021-10-16T00:00:00+03:00",
+          "end_time": "2025-12-27T00:00:00+02:00",
+          "area": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "location": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "keyword": [
+            {
+              "id": "system:topic:sports",
+              "name": [
+                {
+                  "id": "system:topic:sports_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topic:sports_fi",
+                  "language": "fi",
+                  "text": "Liikunta ja urheilu"
+                },
+                {
+                  "id": "system:topic:sports_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            }
+          ],
+          "offer": [
+            {
+              "id": "menoinfo:AA3AWSVrq_offer_0",
+              "description": [
+                {
+                  "id": "menoinfo:AA3AWSVrq_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "menoinfo:AA3AWSVrq_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "menoinfo:AA3AWSVrq_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "menoinfo:AA3AWSVrq_offer_0_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:AA3AWSVrq_offer_0_fi",
+                  "language": "fi",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:AA3AWSVrq_offer_0_sv",
+                  "language": "sv",
+                  "text": ""
+                }
+              ],
+              "price": [
+                {
+                  "id": "menoinfo:AA3AWSVrq_offer_0_en",
+                  "language": "en",
+                  "text": ""
+                },
+                {
+                  "id": "menoinfo:AA3AWSVrq_offer_0_fi",
+                  "language": "fi",
+                  "text": "Katso lisätietoa tapahtuman kuvauksesta"
+                },
+                {
+                  "id": "menoinfo:AA3AWSVrq_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": false
+            }
+          ],
+          "audience": [],
+          "image": [
+            {
+              "id": "3321",
+              "name": "menoinfo_imagelink",
+              "license": "event_only",
+              "url": "https://media.tapkal.fi/media/1157620/ORIGINAL_1c3b571c5c06d4bd8adbb99f61617674a10e55aef0fa809275e7509b8a7a8fbe.jpg",
+              "cropping": "",
+              "photographer_name": "-",
+              "data_source": "menoinfo",
+              "publisher": "menoinfo:integration"
+            }
+          ],
+          "super_event": null,
+          "has_umbrella_super_event": false,
+          "event_status": "EventScheduled",
+          "data_source": "menoinfo",
+          "publisher": "menoinfo:integration",
+          "super_event_type": null,
+          "is_virtualevent": false,
+          "external_links": [],
+          "info_url": [
+            {
+              "id": "menoinfo:AA3AWSVrq_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_fi",
+              "language": "fi",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "location_extra_info": [
+            {
+              "id": "menoinfo:AA3AWSVrq_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_fi",
+              "language": "fi",
+              "text": "Ratina Stadion"
+            },
+            {
+              "id": "menoinfo:AA3AWSVrq_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "date_published": null,
+          "virtual_events_url": [],
+          "in_language": [
+            {
+              "id": "menoinfo:AA3AWSVrq_in_language_2507",
+              "language_id": 2507
+            }
+          ],
+          "sub_events": [],
+          "custom_data": []
+        },
+        "additional_info": {
+          "id": "818bd27d-5e79-4c02-bdef-0e83e386e491"
+        }
+      },
+      {
+        "id": "82d7bed0-8f72-4d9a-bafd-92fdb3e1d8f4",
+        "name": null,
+        "main_event_identifier": null,
+        "event_identifiers": [
+          {
+            "category_id": "system:topics:cultureandart",
+            "description": "Kulttuuri ja taide",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          },
+          {
+            "category_id": "menoinfo:244",
+            "description": "Kulttuuri- ja taidetapahtumat",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          }
+        ],
+        "pirkanmaaevents_event": {
+          "id": "tampere:0p8Zhbw39W",
+          "name": [
+            {
+              "id": "tampere:0p8Zhbw39W_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_fi",
+              "language": "fi",
+              "text": "Operaatio Pirkanmaa"
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "description": [
+            {
+              "id": "tampere:0p8Zhbw39W_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_fi",
+              "language": "fi",
+              "text": "Operaatio Pirkanmaa jatkaa kulttuuripääkaupunkihaussa tehtyä työtä ja elävöittää Pirkanmaata kulttuurilla ja taiteella vuosina 2022 - 2024. Tutustu tapahtumiin osoitteessa operaatiopirkanmaa.fi"
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "short_description": [
+            {
+              "id": "tampere:0p8Zhbw39W_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_fi",
+              "language": "fi",
+              "text": "Operaatio Pirkanmaa jatkaa kulttuuripääkaupunkihaussa tehtyä työtä ja elävöittää Pirkanmaata kulttuurilla ja taiteella vuosina 2022 - 2024. Tutustu tapahtumiin osoitteessa operaatiopirkanmaa.fi"
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "provider_name": "Operaatio Pirkanmaa -projekti",
+          "provider_email": "",
+          "provider_phone": "",
+          "provider_link": "",
+          "publication_status": "public",
+          "start_time": "2022-06-21T00:00:00+03:00",
+          "end_time": "2025-01-01T00:00:00+02:00",
+          "area": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "location": {
+            "id": "mml:145897",
+            "name": [
+              {
+                "id": "mml:145897_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "mml:145897_fi",
+                "language": "fi",
+                "text": "Keskustori 1, 33100 Tampere"
+              },
+              {
+                "id": "mml:145897_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "mml:145897_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "mml:145897_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "mml:145897_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "33100",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "mml",
+            "publisher": "mml:others",
+            "address_locality": [
+              {
+                "id": "mml:145897_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "mml:145897_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "mml:145897_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "mml:145897_23.7620360824332_61.497570191977",
+              "type": "Point",
+              "coordinate_0": "23.7620360824332",
+              "coordinate_1": "61.497570191977"
+            },
+            "street_address": [
+              {
+                "id": "mml:145897_en",
+                "language": "en",
+                "text": "Keskustori 1"
+              },
+              {
+                "id": "mml:145897_fi",
+                "language": "fi",
+                "text": "Keskustori 1"
+              },
+              {
+                "id": "mml:145897_sv",
+                "language": "sv",
+                "text": "Keskustori 1"
+              }
+            ],
+            "telephone": [
+              {
+                "id": "mml:145897_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "mml:145897_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "mml:145897_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "mml:145897_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "mml:145897_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "mml:145897_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "n_events": 0,
+            "parent": "system:17",
+            "deleted": false
+          },
+          "keyword": [
+            {
+              "id": "system:topics:cultureandart",
+              "name": [
+                {
+                  "id": "system:topics:cultureandart_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topics:cultureandart_fi",
+                  "language": "fi",
+                  "text": "Kulttuuri ja taide"
+                },
+                {
+                  "id": "system:topics:cultureandart_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            },
+            {
+              "id": "tampere:topics:operaatio_pirkanmaa",
+              "name": [
+                {
+                  "id": "tampere:topics:operaatio_pirkanmaa_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "tampere:topics:operaatio_pirkanmaa_fi",
+                  "language": "fi",
+                  "text": "Operaatio Pirkanmaa"
+                },
+                {
+                  "id": "tampere:topics:operaatio_pirkanmaa_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "tampere",
+              "publisher": "city:tampere",
+              "n_events": 0,
+              "deprecated": false
+            },
+            {
+              "id": "menoinfo:244",
+              "name": [
+                {
+                  "id": "menoinfo:244_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "menoinfo:244_fi",
+                  "language": "fi",
+                  "text": "Kulttuuri- ja taidetapahtumat"
+                },
+                {
+                  "id": "menoinfo:244_sv",
+                  "language": "sv",
+                  "text": "Kulttuuri- ja taidetapahtumat"
+                }
+              ],
+              "aggregate": false,
+              "data_source": "menoinfo",
+              "publisher": "menoinfo:integration",
+              "n_events": 0,
+              "deprecated": false
+            }
+          ],
+          "offer": [
+            {
+              "id": "tampere:0p8Zhbw39W_offer_0",
+              "description": [
+                {
+                  "id": "tampere:0p8Zhbw39W_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "tampere:0p8Zhbw39W_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "tampere:0p8Zhbw39W_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "tampere:0p8Zhbw39W_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "tampere:0p8Zhbw39W_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "tampere:0p8Zhbw39W_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "price": [
+                {
+                  "id": "tampere:0p8Zhbw39W_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "tampere:0p8Zhbw39W_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "tampere:0p8Zhbw39W_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": true
+            }
+          ],
+          "audience": [],
+          "image": [
+            {
+              "id": "5209",
+              "name": "image",
+              "license": "event_only",
+              "url": "https://pirkanmaaevents.fi/images/0g0NVRf_2022-Op-Pirkanmaa-J-Taideratikka-web.png",
+              "cropping": "",
+              "photographer_name": "Samuli Siiranen",
+              "data_source": "tampere",
+              "publisher": "city:tampere"
+            }
+          ],
+          "super_event": null,
+          "has_umbrella_super_event": false,
+          "event_status": "EventScheduled",
+          "data_source": "tampere",
+          "publisher": "city:tampere",
+          "super_event_type": "umbrella",
+          "is_virtualevent": false,
+          "external_links": [
+            {
+              "id": "tampere:0p8Zhbw39W_fi_http://www.operaatiopirkanmaa.fi",
+              "language": "fi",
+              "name": "http://www.operaatiopirkanmaa.fi",
+              "link": "http://www.operaatiopirkanmaa.fi"
+            }
+          ],
+          "info_url": [
+            {
+              "id": "tampere:0p8Zhbw39W_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_fi",
+              "language": "fi",
+              "text": ""
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "location_extra_info": [
+            {
+              "id": "tampere:0p8Zhbw39W_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_fi",
+              "language": "fi",
+              "text": "Tapahtumia ympäri Pirkanmaan"
+            },
+            {
+              "id": "tampere:0p8Zhbw39W_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "date_published": null,
+          "virtual_events_url": [],
+          "in_language": [
+            {
+              "id": "tampere:0p8Zhbw39W_in_language_10208",
+              "language_id": 10208
+            }
+          ],
+          "sub_events": [],
+          "custom_data": []
+        },
+        "additional_info": {
+          "id": "f08eca9f-eeea-4441-aa41-fccc1a61336e"
+        }
+      },
+      {
+        "id": "239c0e9b-f5ac-4767-aca2-cefed24e4be1",
+        "name": null,
+        "main_event_identifier": null,
+        "event_identifiers": [
+          {
+            "category_id": "system:topic:exhibitions",
+            "description": "Näyttelyt",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          },
+          {
+            "category_id": "system:topic:museum",
+            "description": "Museot",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          },
+          {
+            "category_id": "system:topics:cultureandart",
+            "description": "Kulttuuri ja taide",
+            "mapped_category": {
+              "category_id": "museums_galleries",
+              "info": [
+                {
+                  "language": "fi",
+                  "name": "Museot ja galleriat",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "en",
+                  "name": "Museums & galleries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "sv",
+                  "name": "Museer och gallerier",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "de",
+                  "name": "Museen &amp; Galerien",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ru",
+                  "name": "Музеи и галереи",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ja",
+                  "name": "美術館とギャラリー",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "fr",
+                  "name": "Musées et galeries",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "es",
+                  "name": "Museos y galerías",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "ko",
+                  "name": "박물관 &amp; 갤러리",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "it",
+                  "name": "Musei e gallerie",
+                  "title": null,
+                  "description": null
+                },
+                {
+                  "language": "zh",
+                  "name": "博物馆和美术馆",
+                  "title": null,
+                  "description": null
+                }
+              ]
+            }
+          }
+        ],
+        "pirkanmaaevents_event": {
+          "id": "system:O0g5NmlsoS",
+          "name": [
+            {
+              "id": "system:O0g5NmlsoS_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:O0g5NmlsoS_fi",
+              "language": "fi",
+              "text": "Yhteisvoimin"
+            },
+            {
+              "id": "system:O0g5NmlsoS_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "description": [
+            {
+              "id": "system:O0g5NmlsoS_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:O0g5NmlsoS_fi",
+              "language": "fi",
+              "text": "Werstaan päänäyttely työväenhistoriasta nostaa tavallisen ihmisen näkökulman vahvasti esille ja kutsuu eläytymään kertomukseen, jossa yhteiskuntaa on rakennettu yhteisvoimin kohti parempia aikoja.\n\nYhteisvoimin tarjoaa mahdollisuuden kokea ja osallistua: leiki osuuskaupassa, tutustu kirjapainoon, uppoudu tarinallisiin elokuviin ja nauti työväentalon tunnelmasta!"
+            },
+            {
+              "id": "system:O0g5NmlsoS_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "short_description": [
+            {
+              "id": "system:O0g5NmlsoS_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:O0g5NmlsoS_fi",
+              "language": "fi",
+              "text": "Tarinoita työväenhistoriasta 1800-luvulta nykypäivään"
+            },
+            {
+              "id": "system:O0g5NmlsoS_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "provider_name": "Työväenmuseo Werstas",
+          "provider_email": "info@tyovaenmuseo.fi",
+          "provider_phone": "0104209220",
+          "provider_link": "https://www.tyovaenmuseo.fi/",
+          "publication_status": "public",
+          "start_time": "2023-06-16T11:00:00+03:00",
+          "end_time": "2028-12-31T18:00:00+02:00",
+          "area": {
+            "id": "system:17",
+            "name": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "",
+            "post_office_box_num": "",
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "system:others",
+            "address_locality": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:17_23.761081_61.499781",
+              "type": "Point",
+              "coordinate_0": "23.761081",
+              "coordinate_1": "61.499781"
+            },
+            "street_address": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:17_en",
+                "language": "en",
+                "text": ""
+              },
+              {
+                "id": "system:17_fi",
+                "language": "fi",
+                "text": ""
+              },
+              {
+                "id": "system:17_sv",
+                "language": "sv",
+                "text": ""
+              }
+            ],
+            "n_events": 0,
+            "parent": null,
+            "deleted": false
+          },
+          "location": {
+            "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K",
+            "name": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": "Työväenmuseo Werstas"
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "description": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "email": null,
+            "contact_type": null,
+            "address_region": null,
+            "postal_code": "33210",
+            "post_office_box_num": null,
+            "address_country": "fi",
+            "data_source": "system",
+            "publisher": "city:tampere",
+            "address_locality": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": "Tampere"
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "position": {
+              "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_23.7595239_61.5015878",
+              "type": "Point",
+              "coordinate_0": "23.7595239",
+              "coordinate_1": "61.5015878"
+            },
+            "street_address": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": "Väinö Linnan aukio 8"
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "telephone": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "custom_data": [],
+            "image": [],
+            "info_url": [
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_en",
+                "language": "en",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_fi",
+                "language": "fi",
+                "text": null
+              },
+              {
+                "id": "system:geo21IaoCBkFhz36XIoBbre7py57YhKkg8R2JqGA99K_sv",
+                "language": "sv",
+                "text": null
+              }
+            ],
+            "n_events": 0,
+            "parent": "system:17",
+            "deleted": false
+          },
+          "keyword": [
+            {
+              "id": "system:topics:cultureandart",
+              "name": [
+                {
+                  "id": "system:topics:cultureandart_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topics:cultureandart_fi",
+                  "language": "fi",
+                  "text": "Kulttuuri ja taide"
+                },
+                {
+                  "id": "system:topics:cultureandart_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            },
+            {
+              "id": "system:topic:museum",
+              "name": [
+                {
+                  "id": "system:topic:museum_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topic:museum_fi",
+                  "language": "fi",
+                  "text": "Museot"
+                },
+                {
+                  "id": "system:topic:museum_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            },
+            {
+              "id": "system:topic:exhibitions",
+              "name": [
+                {
+                  "id": "system:topic:exhibitions_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:topic:exhibitions_fi",
+                  "language": "fi",
+                  "text": "Näyttelyt"
+                },
+                {
+                  "id": "system:topic:exhibitions_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "aggregate": false,
+              "data_source": "system",
+              "publisher": "system:others",
+              "n_events": 0,
+              "deprecated": false
+            }
+          ],
+          "offer": [
+            {
+              "id": "system:O0g5NmlsoS_offer_0",
+              "description": [
+                {
+                  "id": "system:O0g5NmlsoS_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:O0g5NmlsoS_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:O0g5NmlsoS_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "info_url": [
+                {
+                  "id": "system:O0g5NmlsoS_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:O0g5NmlsoS_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:O0g5NmlsoS_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "price": [
+                {
+                  "id": "system:O0g5NmlsoS_offer_0_en",
+                  "language": "en",
+                  "text": null
+                },
+                {
+                  "id": "system:O0g5NmlsoS_offer_0_fi",
+                  "language": "fi",
+                  "text": null
+                },
+                {
+                  "id": "system:O0g5NmlsoS_offer_0_sv",
+                  "language": "sv",
+                  "text": null
+                }
+              ],
+              "is_free": true
+            }
+          ],
+          "audience": [],
+          "image": [
+            {
+              "id": "9688",
+              "name": "image",
+              "license": "event_only",
+              "url": "https://pirkanmaaevents.fi/images/RT9o0XS_yhteisvoimin_tunnus_werstas.jpg",
+              "cropping": "",
+              "photographer_name": "Eino Ansio",
+              "data_source": "system",
+              "publisher": "system:others"
+            }
+          ],
+          "super_event": null,
+          "has_umbrella_super_event": false,
+          "event_status": "EventScheduled",
+          "data_source": "system",
+          "publisher": "system:others",
+          "super_event_type": null,
+          "is_virtualevent": false,
+          "external_links": [
+            {
+              "id": "system:O0g5NmlsoS_fi_https://www.tyovaenmuseo.fi/",
+              "language": "fi",
+              "name": "https://www.tyovaenmuseo.fi/",
+              "link": "https://www.tyovaenmuseo.fi/"
+            }
+          ],
+          "info_url": [
+            {
+              "id": "system:O0g5NmlsoS_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:O0g5NmlsoS_fi",
+              "language": "fi",
+              "text": ""
+            },
+            {
+              "id": "system:O0g5NmlsoS_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "location_extra_info": [
+            {
+              "id": "system:O0g5NmlsoS_en",
+              "language": "en",
+              "text": ""
+            },
+            {
+              "id": "system:O0g5NmlsoS_fi",
+              "language": "fi",
+              "text": ""
+            },
+            {
+              "id": "system:O0g5NmlsoS_sv",
+              "language": "sv",
+              "text": ""
+            }
+          ],
+          "date_published": null,
+          "virtual_events_url": [],
+          "in_language": [
+            {
+              "id": "system:O0g5NmlsoS_in_language_48624",
+              "language_id": 48624
+            }
+          ],
+          "sub_events": [],
+          "custom_data": []
+        },
+        "additional_info": {
+          "id": "a92319d5-33f9-452b-b481-448ba06af8f5"
+        }
+      }
+    ]
+  }
