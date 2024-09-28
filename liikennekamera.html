@@ -54,7 +54,9 @@
             teksti = "<h1>" + "Autolla Tampereelle" + "</h1>"
             teksti += "<h2>" + "Minkälainen keli siellä on?" + "</h2>" + "<br>"
             for(i=0;i<data.properties.presets.length;i++){ 
-            teksti += "<p>" + data.presets[i].measuredTime + "</p>" + "<img height=400px src='" + data.properties.presets[i].imageUrl + " '>" 
+            aikadata = data.presets[i].measuredTime
+            aika = aikadata.substr(0, 10) + " kello: " + aikadata.substr(11,5)
+            teksti += "<p>" + aika + "</p>" + "<img height=400px src='" + data.properties.presets[i].imageUrl + " '>" 
         }
 
             document.getElementById("vastaus").innerHTML = teksti
